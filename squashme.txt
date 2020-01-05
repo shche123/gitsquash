@@ -1,2 +1,3 @@
 squash file one
 squash file two
+squash file three
